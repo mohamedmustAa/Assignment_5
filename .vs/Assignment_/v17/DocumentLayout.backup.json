@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Asp .net\\c#\\Assignment\\Assignment_\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06443539-1059-47A6-AFD6-EED7154F513B}|Assignment_\\Assignment_.csproj|f:\\asp .net\\c#\\assignment\\assignment_\\assignment_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06443539-1059-47A6-AFD6-EED7154F513B}|Assignment_\\Assignment_.csproj|solutionrelative:assignment_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Asp .net\\c#\\Assignment\\Assignment_\\Assignment_\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment_\\Program.cs",
+              "ToolTip": "F:\\Asp .net\\c#\\Assignment\\Assignment_\\Assignment_\\Program.cs*",
+              "RelativeToolTip": "Assignment_\\Program.cs*",
+              "ViewState": "AgIAADIAAAAAzczMzMwEwAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T17:17:52.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
